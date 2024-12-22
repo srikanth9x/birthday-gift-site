@@ -43,24 +43,24 @@ h1, h2, h3, h4, p {
   height:340px;
   border: 6px solid #fff;
   border-radius: 10px;
-  background-image:url("images/gift-cover.jpg") ;
+  background-image:url("gift-cover.jpg") ;
   background-size: cover;
   margin: 0 auto;
 }
 #gift-img-1:hover {
-  background-image: url("images/gift-1.gif")
+  background-image: url("gift-1.gif")
 }
 #gift-img-2:hover {
-  background-image: url("images/gift-2.gif")
+  background-image: url("gift-2.gif")
 }
 #gift-img-3:hover {
-  background-image: url("images/gift-3.webp")
+  background-image: url("gift-3.webp")
 }
 #gift-img-4:hover {
-  background-image: url("images/gift-4.webp")
+  background-image: url("gift-4.webp")
 }
 #gift-img-5:hover {
-  background-image: url("images/gift-5.gif")
+  background-image: url("gift-5.gif")
 }
 #footer {
   width: 340px;
