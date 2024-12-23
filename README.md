@@ -28,7 +28,7 @@ This project was built and deployed entirely using a mobile phone. The code was 
 ## Contact  
 If you have any feedback or want to connect, reach out to me on:  
 - **Instagram**: [https://instagram.com/srikanth9x/](https://instagram.com/srikanth9x/)  
-- **X (formerly Twitter)**: [https://x.com/srikanth9x/](https://x.com/srikanth9x/)  
+- **X (formerly Twitter)**: [https://x.com/srikanth9x](https://x.com/srikanth9x)  
 
 ## Credits  
 - Inspired by a course from **freeCodeCamp**.  
